@@ -1,0 +1,58 @@
+body{
+	background-image: url("Chiikawa.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+}	
+h1{
+	font-family: "Arima", "DynaPuff", sans-serif;
+	font-size: 60px
+}
+#box1{
+	margin-left: 400px;
+	border: 5px solid;
+	border-color: #FFFFFF;
+	border-radius: 20px;
+	background: #FFFFFF;
+	padding: 5px;
+	width: 310px;
+	height: 100px
+}
+p{
+	font-family: "Poppins", "Arima", "DynaPuff", sans-serif;
+	font-size: 20px
+}
+#bt1{
+	padding: 40px 20px;
+	border-radius: 10px;
+	border-color: #DFEBEB;
+	background: #DFEBEB;
+	font-family: "Poppins", "Arima", "DynaPuff", sans-serif;
+	font-size: 15px
+}
+#bt2{
+	padding: 40px 20px;
+	border-radius: 10px;
+	border-color: #FFCBCB;
+	background: #FFCBCB;
+	font-family: "Poppins", "Arima", "DynaPuff", sans-serif;
+	font-size: 15px
+}
+#bt3{
+	margin-top: 10px;
+	padding: 40px 20px;
+	border-radius: 10px;
+	border-color: #F1F7B5;
+	background: #F1F7B5;
+	font-family: "Poppins", "Arima", "DynaPuff", sans-serif;
+	font-size: 15px
+}
+#bt4{
+	padding: 40px 20px;
+	border-radius: 10px;
+	border-color: #9EA1D4;
+	background: #9EA1D4;
+	font-family: "Poppins", "Arima", "DynaPuff", sans-serif;
+	font-size: 15px
+}
